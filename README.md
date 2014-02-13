@@ -7,6 +7,7 @@ Installation & Usage
 --------------------
 
 1. Append "%D" to the Apache Access Log, e.g. like this:
+
   ```
   LogFormat "%h %l %u %t \"%r\" %>s %O \"%{Referer}i\" \"%{User-Agent}i\" %D" combined
   ```
