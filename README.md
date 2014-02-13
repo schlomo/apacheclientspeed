@@ -48,6 +48,6 @@ TODO
 License
 -------
 
-This code is licensed under the GPL, see included LICENSE.TXT.
+This code is licensed under the GPL, see included LICENSE.
 
 The included [apachelog module](https://code.google.com/p/apachelog/) is licensed under as "Artistic License/GPL".
