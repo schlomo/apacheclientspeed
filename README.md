@@ -3,6 +3,8 @@ apacheclientspeed
 
 Apache Log Analysis to Measure Client Download Speed
 
+See my [Blog Article "Rough Measurement for HTTP Client Download Speed"](http://blog.schlomo.schapiro.org/2014/02/rough-measurement-for-http-client.html) for more information about this code.
+
 Installation & Usage
 --------------------
 
@@ -43,6 +45,12 @@ TODO
 ----
 
 * Autodetect log format for given apache log file
+
+
+SEE ALSO
+--------
+
+[Marc Schöchlin](https://github.com/scoopex) also wrote a [Response Times Calculator](https://github.com/scoopex/response_times_calculator), which is another version of the same thing. His code seems do do a bit more than mine and also covers Apache Tomcat.
 
 
 License
